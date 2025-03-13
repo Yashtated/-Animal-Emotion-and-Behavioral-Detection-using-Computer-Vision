@@ -1,0 +1,2 @@
+# -Animal-Emotion-and-Behavioral-Detection-using-Computer-Vision
+Using the facial expressions of the dogs, a computer vision system which predicts the presence of rabies in dogs is proposed. Firstly, An AlexNet CNN model is used to predict the type of animal among dogs, cats and other wild animals. a DL model using CNN with an inbuilt model called ResNet50v2 is used to perform breed classification of the dogs.
